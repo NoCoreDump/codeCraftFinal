@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="kunpeng">
+    <serverData>
+      <paths name="kunpeng">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/codeCraftFinal" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="kunpeng (65ab908f-d3a6-44cb-96ea-e7f6218b9e98)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.ctO9rkr7LB" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-kpdebug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-kpdebug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
